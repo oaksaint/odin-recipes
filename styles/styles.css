@@ -1,0 +1,17 @@
+body {
+    background-color: #F3ECB0;
+}
+
+h1 {
+    font-family: cursive;
+}
+
+ul {
+    font-family: monospace;
+    font-size: 20px;
+}
+
+ol {
+    font-family: sans-serif;
+    color: red;
+}
